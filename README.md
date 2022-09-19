@@ -20,15 +20,15 @@ Foi utilizado como linguagem de programação para o back-end o JavaScript e, Na
 
 
 ## Dependencias
-   body-parser
-   cors
-   express
-   mysql-server
-   mysql2
-   path
-   sequelize
-   sequelize-cli
-   nodemon
+ ####  body-parser
+ ####  cors
+ ####  express
+ ####  mysql-server
+ ####  mysql2
+ ####  path
+ #### sequelize
+ ####  sequelize-cli
+ ####  nodemon
    
 # Execução do Projeto
 
