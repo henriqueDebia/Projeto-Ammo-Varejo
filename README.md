@@ -1,4 +1,4 @@
-# ProjetoAlura
+# Projeto QueroSerDEV
 Projeto para o programa quero ser Dev da ammo Varejo
 
 
@@ -40,3 +40,9 @@ Foi utilizado como linguagem de programação para o back-end o JavaScript e, Na
 
 ### Execute a aplicação em modo de desenvolvimento
 ###### npm run start
+
+## front-end 
+### Apenas abra os devidos arquivos HTML e checar se esta rodando com o "npm" 
+
+# Autor 
+### Henrique Augusto Debia
