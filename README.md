@@ -6,4 +6,5 @@ Participei de um programa de capacitação da ammo Varejo que me proporcionou mu
 Produzi um site que Conectado com um banco de dados, Cadastra produtos e em outra pagina os Produtos são listados, com pequenos detalhes que fazem muita diferença no final
 
 # Tecnologias 
-## a
+##Front-end e Back-end
+Foi utilizado como linguagem de programação para o back-end o JavaScript e, Na parte do front-end o HTML e o CSS
